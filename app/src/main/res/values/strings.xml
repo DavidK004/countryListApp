@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CountryList</string>
+
+    <!-- Serbia -->
+    <string name="serbia_name">Serbia</string>
+    <string name="serbia_capital">Belgrade</string>
+    <string name="serbia_desc">Serbia, officially the Republic of Serbia, is a landlocked country situated in Southeast and Central Europe. It lies at the crossroads of the Pannonian Plain and the Balkans and shares borders with Hungary, Romania, Bulgaria, North Macedonia, Croatia, Bosnia and Herzegovina, and Montenegro. Serbia has a population of about 6.6 million people. Its capital and largest city is Belgrade, one of the oldest cities in Europe.</string>
+
+    <!-- Japan -->
+    <string name="japan_name">Japan</string>
+    <string name="japan_capital">Tokyo</string>
+    <string name="japan_desc">Japan, officially the State of Japan, is an island nation in East Asia located in the northwest Pacific Ocean. The country is made up of four main islands — Honshu, Hokkaido, Kyushu, and Shikoku — along with thousands of smaller islands. Japan has a population of approximately 125 million. Its capital, Tokyo, is a global economic hub and one of the most populous urban areas in the world.</string>
+
+    <!-- Canada -->
+    <string name="canada_name">Canada</string>
+    <string name="canada_capital">Ottawa</string>
+    <string name="canada_desc">Canada is a country in North America. It is the second-largest country in the world by total area and shares the longest binational land border in the world with the United States. Canada has a population of around 39 million. Ottawa is the capital city, while Toronto is the largest city.</string>
+
+    <!-- Brazil -->
+    <string name="brazil_name">Brazil</string>
+    <string name="brazil_capital">Brasília</string>
+    <string name="brazil_desc">Brazil, officially the Federative Republic of Brazil, is the largest country in both South America and Latin America. It borders every South American country except Chile and Ecuador. Brazil has a population of over 215 million, making it the most populous country in South America. Brasília is the capital, while São Paulo is the largest city.</string>
+
+    <!-- Egypt -->
+    <string name="egypt_name">Egypt</string>
+    <string name="egypt_capital">Cairo</string>
+    <string name="egypt_desc">Egypt, officially the Arab Republic of Egypt, is a transcontinental country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. It has a population of over 110 million people. Cairo is the capital and largest city of Egypt.</string>
+
+    <!-- Australia -->
+    <string name="australia_name">Australia</string>
+    <string name="australia_capital">Canberra</string>
+    <string name="australia_desc">Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. It has a population of around 26 million. Canberra is the capital, while Sydney is the largest city.</string>
+
+    <!-- Denmark -->
+    <string name="denmark_name">Denmark</string>
+    <string name="denmark_capital">Copenhagen</string>
+    <string name="denmark_desc">Denmark, officially the Kingdom of Denmark, is a Nordic country located in Northern Europe. It consists of the Jutland Peninsula and numerous islands, including Zealand and Funen. Denmark shares a land border with Germany and has maritime borders with Sweden and Norway. It has a population of about 5.9 million people. Copenhagen is the capital and largest city.</string>
+
+</resources>
