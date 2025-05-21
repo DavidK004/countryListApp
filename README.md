@@ -1,0 +1,27 @@
+# 🌍 CountryListApp
+
+A simple Android app that displays a list of countries, their capitals, and short descriptions. The app supports multiple languages, including Serbian (Latin and Cyrillic), and shows country flags.
+
+---
+
+## 📸 Screenshots
+
+<img src="taskImgs/screen1.png" alt="Screenshot 1" width="300"/>
+<img src="taskImgs/screen2.png" alt="Screenshot 2" width="300"/>
+<img src="taskImgs/screen3.png" alt="Screenshot 3" width="300"/>
+
+---
+
+## 📁 Project Structure
+
+| Folder | Description |
+|--------|-------------|
+| [`app/src/main/java/com/example/countrylistapp`](app/src/main/java/com/example/countrylistapp) | Main source code |
+| [`app/src/main/res/layout`](app/src/main/res/layout) | XML UI layout files |
+| [`app/src/main/res/values`](app/src/main/res/values) | Default string resources (English) |
+| [`app/src/main/res/values-sr`](app/src/main/res/values-sr) | Serbian Cyrillic translations |
+| [`app/src/main/res/values-sr-rLatn`](app/src/main/res/values-sr-rLatn) | Serbian Latin translations |
+| [`app/src/main/res/drawable`](app/src/main/res/drawable) | Country flag images |
+| [`taskImgs`](taskImgs) | Screenshots for documentation and tasks |
+
+---
