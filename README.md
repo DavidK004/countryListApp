@@ -16,7 +16,7 @@ A simple Android app that displays a list of countries, their capitals, and shor
 
 | Folder | Description |
 |--------|-------------|
-| [`app/src/main/java/com/example/countrylistapp`](app/src/main/java/com/example/countrylistapp) | Main source code |
+| [`app/src/main/java/com/example/coutrylistapp`](app/src/main/java/com/example/coutrylistapp) | Main source code |
 | [`app/src/main/res/layout`](app/src/main/res/layout) | XML UI layout files |
 | [`app/src/main/res/values`](app/src/main/res/values) | Default string resources (English) |
 | [`app/src/main/res/values-sr`](app/src/main/res/values-sr) | Serbian Cyrillic translations |
@@ -25,3 +25,4 @@ A simple Android app that displays a list of countries, their capitals, and shor
 | [`taskImgs`](taskImgs) | Screenshots for documentation and tasks |
 
 ---
+https://github.com/DavidK004/countryListApp/tree/main/app/src/main/java/com/example/coutrylistapp
