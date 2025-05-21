@@ -6,11 +6,11 @@ A simple Android app that displays a list of countries, their capitals, and shor
 
 ## 📸 Screenshots
 
-<img src="taskImgs/splash.png" alt="Screenshot 1" width="300"/>
-<img src="taskImgs/listEng.png" alt="Screenshot 2" width="300"/>
-<img src="taskImgs/detailsEng.png" alt="Screenshot 3" width="300"/>
-<img src="taskImgs/listSerbian.png" alt="Screenshot 3" width="300"/>
-<img src="taskImgs/detailsSerbian.png" alt="Screenshot 3" width="300"/>
+<img src="taskImgs/splash.png" alt="Screenshot 1" width="200"/>
+<img src="taskImgs/listEng.png" alt="Screenshot 2" width="200"/>
+<img src="taskImgs/detailsEng.png" alt="Screenshot 3" width="200"/>
+<img src="taskImgs/listSerbian.png" alt="Screenshot 3" width="200"/>
+<img src="taskImgs/detailsSerbian.png" alt="Screenshot 3" width="200"/>
 
 ---
 
