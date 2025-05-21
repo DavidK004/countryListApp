@@ -27,4 +27,4 @@ A simple Android app that displays a list of countries, their capitals, and shor
 | [`taskImgs`](taskImgs) | Screenshots for documentation and tasks |
 
 ---
-https://github.com/DavidK004/countryListApp/tree/main/app/src/main/java/com/example/coutrylistapp
+
